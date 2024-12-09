@@ -1,0 +1,259 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+.Login {
+    width: 100vh;
+    background-color: rgb(189, 186, 186);
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+    margin-left: 500px;
+    margin-top: 20px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+    color: black;
+  }
+  h2{
+    text-align: center;
+  }
+  
+  label {
+    font-size: 16px;
+    color: black;
+    display: flex;
+    margin-bottom: 8px;
+  }
+  
+  input[type="text"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+   
+  
+  button {
+    background-color: orange;
+    color: white;
+    margin-top: 30px;
+    padding: 10px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    width: 100vh;
+  }  
+
+  
+
+  .landing{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    background-color:rgb(171,246,0) ;
+  }
+
+  .page{
+    margin-top: 15%;
+    height: 40%;
+  
+  }
+  .page h1{
+    height: 10vh;
+    color: rgb(33,33,33);
+    font-size: 50px;
+ 
+
+  }
+
+  .page h3{
+    color: rgb(33,33,33);
+    font-size: 20px;
+    font-weight: 1500;
+    text-align: center;
+  }
+
+  .page button{
+    font-size: 20px;
+    height: 6vh;
+    width: 40%;
+    border: 1px solid black;
+    border-radius: 100px;
+    margin-left: 150px;
+  }
+
+  .page button:hover{
+    cursor: pointer;
+  }
+
+  .mainform{
+    height: 100vh;
+    border: 1px solid;
+    width: 100%;
+    background: rgb(171,246,0);
+  }
+
+  .form{
+    width: 50%;
+    height: 65vh;
+    padding: 20px;
+    box-shadow: 0px 2px 4px rgb(93, 87, 87);
+    margin-left: 25%;
+    margin-top: 10%;
+  }
+
+.form h1{
+    text-align: center;
+    margin-bottom: 11px;
+}
+
+.form-content{
+    margin-bottom: 10px;
+    
+}
+
+.form-content input{
+    width: 100%;
+    padding: 8px;
+    margin: 5px 0px;
+    border: 1px solid grey;
+    border-radius: 4px;
+}
+button:hover{
+    background-color: lightblue;
+}
+button{
+    width: 150px;
+    padding: 15px;
+    background-color:rgba(172, 246, 0, 0.427);
+    border: 1px solid black;
+    border-radius: 10px;
+    cursor: pointer;
+    margin-left:40%;
+    color: black;
+}
+ 
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 10vh;
+  align-items: center;
+  
+}
+
+nav ul  {
+  display: flex;
+  list-style: none;
+  gap: 50px;
+  margin-left: 90px;
+  font-size: 20px;
+  color: white;
+}
+nav ul li a{
+  text-decoration: none;
+  color: white;
+}
+
+.container {
+  margin: 0 auto;
+  width: 100%;
+  background-color: rgb(33,33,33);
+
+ 
+}
+
+.containermain{
+width: 100%;
+
+}
+
+.buttonas{
+  height: 50px;
+  display: flex;
+  margin-right: 190px;
+  margin-bottom: 50px;
+}
+
+.buttonas a{
+  text-decoration: none;
+}
+
+
+.buttonas button{
+  width: 100px;
+  height: 100%;
+  color: black;
+  background-color: rgb(171,246,0);
+  border-radius: 20px;
+  font-size: 20px;
+  font-weight: 600;
+
+}
+
+.main{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  background-color: gray;
+}
+.card{
+  border: 1px solid;
+  margin-top: 10px;
+  width: 22%;
+  border-radius:20px ;
+  height: 350px;
+  background-color: rgb(33, 33, 33);
+  color: white;
+}
+.card .image{
+  margin-top: 35px;
+  margin-left: 45px;
+  height: 130px;
+  width: 150px;
+  border: 1px solid black;
+  background-color: white;
+}
+
+.card .image img{
+  height: 100%;
+  width: 100%;
+}
+.card h1{
+  margin-top: 4px;
+  margin-left: 45px;
+  color: white;
+}
+.card p{
+  margin-left: 40px;
+  font-size: 25px;
+}
+.card .update{
+  margin-top: 15px;
+  margin-right: 20px;
+  margin-left: 15px;
+  width: 100px;
+  background-color: rgb(171,246,0);
+  color: black;
+
+}
+.card .delete{
+  margin-top: 15px;
+  margin-right: 20px;
+  margin-left: 15px;
+  width: 100px;
+  background-color: rgb(171,246,0);
+  color: black;
+  
+}
+.warrantyId:hover{
+  cursor: not-allowed;
+}

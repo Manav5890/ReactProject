@@ -1,0 +1,752 @@
+{
+  "Electronics": [
+    {
+      "item": "Laptop",
+      "warranty": "1 years",
+      "image": "https://m.media-amazon.com/images/I/71KcsYWu1uL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "2"
+    },
+    {
+      "item": "Headphones manav",
+      "warranty": "1 year",
+      "warranty_Id": "03",
+      "id": "3",
+      "image": "https://m.media-amazon.com/images/I/71Zsf-TkSpL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Smartwatch dabbaWatch",
+      "warranty": "1 year",
+      "warranty_Id": "04",
+      "id": "E0004",
+      "image": "https://m.media-amazon.com/images/I/61aAwWvzLEL._AC_SX208_QL70_.jpg"
+    },
+    {
+      "item": "Bluetooth Speaker",
+      "id": "E0005",
+      "warranty": "2 years",
+      "warranty_id": "05",
+      "image": "https://m.media-amazon.com/images/I/71isiSO138L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Tablet",
+      "id": "E0006",
+      "warranty": "2 years",
+      "warranty_id": "06",
+      "image": "https://m.media-amazon.com/images/I/71KcsYWu1uL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "LED TV",
+      "id": "E0007",
+      "warranty": "3 years",
+      "warranty_id": "07",
+      "image": "https://m.media-amazon.com/images/I/71+89DTymuL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Digital Camera",
+      "id": "E0008",
+      "warranty": "1 year",
+      "warranty_id": "08",
+      "image": "https://m.media-amazon.com/images/I/61xl4inLS5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Gaming Console",
+      "id": "E0009",
+      "warranty": "2 years",
+      "warranty_id": "09",
+      "image": "https://m.media-amazon.com/images/I/415Lf0YEezL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Microwave Oven",
+      "id": "E0010",
+      "warranty": "1 year",
+      "warranty_id": "010",
+      "image": "https://m.media-amazon.com/images/I/71vJLCZBeoL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Smart Refrigerator",
+      "id": "E0011",
+      "warranty": "5 years",
+      "warranty_id": "011",
+      "image": "https://m.media-amazon.com/images/I/71hBUthcJ5L._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Washing Machine",
+      "id": "E0012",
+      "warranty": "3 years",
+      "warranty_id": "012",
+      "image": "https://m.media-amazon.com/images/I/61Ka87z2DSL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Air Conditioner",
+      "id": "E0013",
+      "warranty": "2 years",
+      "warranty_id": "013",
+      "image": "https://m.media-amazon.com/images/I/61Ka87z2DSL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Food Processor",
+      "id": "E0014",
+      "warranty": "1 year",
+      "warranty_id": "014",
+      "image": "https://m.media-amazon.com/images/I/51mCAmdG4AL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Vacuum Cleaner",
+      "id": "E0015",
+      "warranty": "2 years",
+      "warranty_id": "015",
+      "image": "https://m.media-amazon.com/images/I/61fYCp61BHL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Electric Kettle",
+      "id": "E0016",
+      "warranty": "1 year",
+      "warranty_id": "016",
+      "image": "https://m.media-amazon.com/images/I/51Q11RNy8dL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Electric Fan",
+      "id": "E0017",
+      "warranty": "2 years",
+      "warranty_id": "017",
+      "image": "https://m.media-amazon.com/images/I/51h9wICEAIL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Hair Dryer",
+      "id": "E0018",
+      "warranty": "1 year",
+      "warranty_id": "018",
+      "image": "https://m.media-amazon.com/images/I/51gHGxAfg1L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Electric Iron",
+      "id": "E0019",
+      "warranty": "2 years",
+      "warranty_id": "019",
+      "image": "https://m.media-amazon.com/images/I/51hooqrZcmL._AC_UY327_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Smart Bulb",
+      "id": "E0020",
+      "warranty": "1 year",
+      "warranty_id": "020",
+      "image": "https://m.media-amazon.com/images/I/81KDUih-kiL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Portable Power Bank",
+      "id": "E0021",
+      "warranty": "1 year",
+      "warranty_id": "021",
+      "image": "https://m.media-amazon.com/images/I/61shEn8ULoL._AC_SR155,154_QL70_.jpg"
+    },
+    {
+      "item": "Cordless Drill",
+      "id": "E0022",
+      "warranty": "3 years",
+      "warranty_id": "022",
+      "image": "https://m.media-amazon.com/images/I/717hgyAhgAL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Projectors",
+      "warranty": "5 years",
+      "warranty_Id": "023",
+      "image": "https://m.media-amazon.com/images/I/71MqUZsIsEL._AC_UY327_FMwebp_QL65_.jpg",
+      "id": "E0023"
+    }
+  ],
+  "Medical": [
+    {
+      "item": "Blood Pressure Monitor",
+      "id": "M0001",
+      "warranty": "2 years",
+      "warranty_id": "W0001",
+      "image": "https://m.media-amazon.com/images/I/61jCO+2fjDL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Pulse Oximeter",
+      "id": "M0002",
+      "warranty": "1 year",
+      "warranty_id": "W0002",
+      "image": "https://m.media-amazon.com/images/I/61jCO+2fjDL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Thermometer",
+      "id": "M0003",
+      "warranty": "1 year",
+      "warranty_id": "W0003",
+      "image": "https://m.media-amazon.com/images/I/51XFA+pgOWL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Nebulizer",
+      "id": "M0004",
+      "warranty": "2 years",
+      "warranty_id": "W0004",
+      "image": "https://m.media-amazon.com/images/I/61s0GcP5yXL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Glucose Meter",
+      "id": "M0005",
+      "warranty": "1 year",
+      "warranty_id": "W0005",
+      "image": "https://m.media-amazon.com/images/I/51ZugBgW4hL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Stethoscope",
+      "id": "M0006",
+      "warranty": "3 years",
+      "warranty_id": "W0006",
+      "image": "https://m.media-amazon.com/images/I/61eW37HIomL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Infusion Pump",
+      "id": "M0007",
+      "warranty": "2 years",
+      "warranty_id": "W0007",
+      "image": "https://m.media-amazon.com/images/I/41dezdxM1lL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Syringe Pump",
+      "id": "M0008",
+      "warranty": "2 years",
+      "warranty_id": "W0008",
+      "image": "https://m.media-amazon.com/images/I/41dezdxM1lL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Wheelchair",
+      "id": "M0009",
+      "warranty": "5 years",
+      "warranty_id": "W0009",
+      "image": "https://m.media-amazon.com/images/I/71zfyYUdUNL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Patient Monitor",
+      "id": "M0010",
+      "warranty": "3 years",
+      "warranty_id": "W0010",
+      "image": "https://m.media-amazon.com/images/I/41sIXSYZD2L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "ECG Machine",
+      "id": "M0011",
+      "warranty": "3 years",
+      "warranty_id": "W0011",
+      "image": "https://m.media-amazon.com/images/I/41-rsLTS73L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "CPAP Machine",
+      "id": "M0012",
+      "warranty": "2 years",
+      "warranty_id": "W0012",
+      "image": "https://m.media-amazon.com/images/I/41-rsLTS73L._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Oxygen Concentrator",
+      "id": "M0013",
+      "warranty": "2 years",
+      "warranty_id": "W0013",
+      "image": "https://m.media-amazon.com/images/I/3112iOaLPHL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "Defibrillator",
+      "id": "M0014",
+      "warranty": "3 years",
+      "warranty_id": "W0014",
+      "image": "https://m.media-amazon.com/images/I/51PKxmn4gdL._AC_UL480_FMwebp_QL65_.jpg"
+    },
+    {
+      "item": "X-Ray Machine",
+      "id": "M0015",
+      "warranty": "5 years",
+      "warranty_id": "W0015",
+      "image": "https://m.media-amazon.com/images/I/61Cpp6iAekL._AC_UL480_FMwebp_QL65_.jpg"
+    }
+  ],
+  "Clothes": [
+    {
+      "item": "T-shirt",
+      "id": "C0001",
+      "warranty": "1 year",
+      "warranty_id": "W0001"
+    },
+    {
+      "item": "Jeans",
+      "id": "C0002",
+      "warranty": "1 year",
+      "warranty_id": "W0002"
+    },
+    {
+      "item": "Jacket",
+      "id": "C0003",
+      "warranty": "2 years",
+      "warranty_id": "W0003"
+    },
+    {
+      "item": "Sweater",
+      "id": "C0004",
+      "warranty": "1 year",
+      "warranty_id": "W0004"
+    },
+    {
+      "item": "Shirt",
+      "id": "C0005",
+      "warranty": "1 year",
+      "warranty_id": "W0005"
+    },
+    {
+      "item": "Blouse",
+      "id": "C0006",
+      "warranty": "1 year",
+      "warranty_id": "W0006"
+    },
+    {
+      "item": "Skirt",
+      "id": "C0007",
+      "warranty": "1 year",
+      "warranty_id": "W0007"
+    },
+    {
+      "item": "Dress",
+      "id": "C0008",
+      "warranty": "1 year",
+      "warranty_id": "W0008"
+    },
+    {
+      "item": "Shorts",
+      "id": "C0009",
+      "warranty": "1 year",
+      "warranty_id": "W0009"
+    },
+    {
+      "item": "Socks",
+      "id": "C0010",
+      "warranty": "6 months",
+      "warranty_id": "W0010"
+    },
+    {
+      "item": "Suit",
+      "id": "C0011",
+      "warranty": "2 years",
+      "warranty_id": "W0011"
+    },
+    {
+      "item": "Sweatshirt",
+      "id": "C0012",
+      "warranty": "1 year",
+      "warranty_id": "W0012"
+    },
+    {
+      "item": "Cardigan",
+      "id": "C0013",
+      "warranty": "1 year",
+      "warranty_id": "W0013"
+    },
+    {
+      "item": "Cargo Pants",
+      "id": "C0014",
+      "warranty": "1 year",
+      "warranty_id": "W0014"
+    },
+    {
+      "item": "Pajamas",
+      "id": "C0015",
+      "warranty": "6 months",
+      "warranty_id": "W0015"
+    },
+    {
+      "item": "Coat",
+      "id": "C0016",
+      "warranty": "2 years",
+      "warranty_id": "W0016"
+    },
+    {
+      "item": "Blazer",
+      "id": "C0017",
+      "warranty": "2 years",
+      "warranty_id": "W0017"
+    },
+    {
+      "item": "Track Pants",
+      "id": "C0018",
+      "warranty": "1 year",
+      "warranty_id": "W0018"
+    },
+    {
+      "item": "Jumpsuit",
+      "id": "C0019",
+      "warranty": "1 year",
+      "warranty_id": "W0019"
+    },
+    {
+      "item": "Romper",
+      "id": "C0020",
+      "warranty": "1 year",
+      "warranty_id": "W0020"
+    },
+    {
+      "item": "Tank Top",
+      "id": "C0021",
+      "warranty": "1 year",
+      "warranty_id": "W0021"
+    },
+    {
+      "item": "Hoodie",
+      "id": "C0022",
+      "warranty": "1 year",
+      "warranty_id": "W0022"
+    },
+    {
+      "item": "Leggings",
+      "id": "C0023",
+      "warranty": "1 year",
+      "warranty_id": "W0023"
+    },
+    {
+      "item": "Bikini",
+      "id": "C0024",
+      "warranty": "6 months",
+      "warranty_id": "W0024"
+    },
+    {
+      "item": "Swim Trunks",
+      "id": "C0025",
+      "warranty": "6 months",
+      "warranty_id": "W0025"
+    },
+    {
+      "item": "Lingerie",
+      "id": "C0026",
+      "warranty": "6 months",
+      "warranty_id": "W0026"
+    },
+    {
+      "item": "Poncho",
+      "id": "C0027",
+      "warranty": "1 year",
+      "warranty_id": "W0027"
+    },
+    {
+      "item": "Cape",
+      "id": "C0028",
+      "warranty": "1 year",
+      "warranty_id": "W0028"
+    },
+    {
+      "item": "Tights",
+      "id": "C0029",
+      "warranty": "6 months",
+      "warranty_id": "W0029"
+    },
+    {
+      "item": "Gloves",
+      "id": "C0030",
+      "warranty": "1 year",
+      "warranty_id": "W0030"
+    }
+  ],
+  "grocery": [
+    {
+      "item": "Rice",
+      "id": "G0001",
+      "warranty": "6 months",
+      "warranty_id": "W0001"
+    },
+    {
+      "item": "Sugar",
+      "id": "G0002",
+      "warranty": "1 year",
+      "warranty_id": "W0002"
+    },
+    {
+      "item": "Flour",
+      "id": "G0003",
+      "warranty": "6 months",
+      "warranty_id": "W0003"
+    },
+    {
+      "item": "Salt",
+      "id": "G0004",
+      "warranty": "2 years",
+      "warranty_id": "W0004"
+    },
+    {
+      "item": "Cooking Oil",
+      "id": "G0005",
+      "warranty": "1 year",
+      "warranty_id": "W0005"
+    },
+    {
+      "item": "Milk",
+      "id": "G0006",
+      "warranty": "1 week",
+      "warranty_id": "W0006"
+    },
+    {
+      "item": "Cheese",
+      "id": "G0007",
+      "warranty": "3 months",
+      "warranty_id": "W0007"
+    },
+    {
+      "item": "Eggs",
+      "id": "G0008",
+      "warranty": "2 weeks",
+      "warranty_id": "W0008"
+    },
+    {
+      "item": "Butter",
+      "id": "G0009",
+      "warranty": "3 months",
+      "warranty_id": "W0009"
+    },
+    {
+      "item": "Yogurt",
+      "id": "G0010",
+      "warranty": "1 month",
+      "warranty_id": "W0010"
+    },
+    {
+      "item": "Potatoes",
+      "id": "G0011",
+      "warranty": "2 months",
+      "warranty_id": "W0011"
+    },
+    {
+      "item": "Onions",
+      "id": "G0012",
+      "warranty": "3 months",
+      "warranty_id": "W0012"
+    },
+    {
+      "item": "Tomatoes",
+      "id": "G0013",
+      "warranty": "1 week",
+      "warranty_id": "W0013"
+    },
+    {
+      "item": "Carrots",
+      "id": "G0014",
+      "warranty": "1 month",
+      "warranty_id": "W0014"
+    },
+    {
+      "item": "Garlic",
+      "id": "G0015",
+      "warranty": "3 months",
+      "warranty_id": "W0015"
+    },
+    {
+      "item": "Cucumber",
+      "id": "G0016",
+      "warranty": "1 week",
+      "warranty_id": "W0016"
+    },
+    {
+      "item": "Lettuce",
+      "id": "G0017",
+      "warranty": "1 week",
+      "warranty_id": "W0017"
+    },
+    {
+      "item": "Apples",
+      "id": "G0018",
+      "warranty": "1 month",
+      "warranty_id": "W0018"
+    },
+    {
+      "item": "Bananas",
+      "id": "G0019",
+      "warranty": "1 week",
+      "warranty_id": "W0019"
+    },
+    {
+      "item": "Oranges",
+      "id": "G0020",
+      "warranty": "2 weeks",
+      "warranty_id": "W0020"
+    },
+    {
+      "item": "Grapes",
+      "id": "G0021",
+      "warranty": "1 week",
+      "warranty_id": "W0021"
+    },
+    {
+      "item": "Canned Beans",
+      "id": "G0022",
+      "warranty": "2 years",
+      "warranty_id": "W0022"
+    },
+    {
+      "item": "Canned Corn",
+      "id": "G0023",
+      "warranty": "2 years",
+      "warranty_id": "W0023"
+    },
+    {
+      "item": "Canned Peas",
+      "id": "G0024",
+      "warranty": "2 years",
+      "warranty_id": "W0024"
+    },
+    {
+      "item": "Pasta",
+      "id": "G0025",
+      "warranty": "1 year",
+      "warranty_id": "W0025"
+    },
+    {
+      "item": "Rice Noodles",
+      "id": "G0026",
+      "warranty": "1 year",
+      "warranty_id": "W0026"
+    },
+    {
+      "item": "Spaghetti",
+      "id": "G0027",
+      "warranty": "1 year",
+      "warranty_id": "W0027"
+    },
+    {
+      "item": "Bread",
+      "id": "G0028",
+      "warranty": "1 week",
+      "warranty_id": "W0028"
+    },
+    {
+      "item": "Cereal",
+      "id": "G0029",
+      "warranty": "6 months",
+      "warranty_id": "W0029"
+    },
+    {
+      "item": "Oats",
+      "id": "G0030",
+      "warranty": "6 months",
+      "warranty_id": "W0030"
+    }
+  ],
+  "customer": [
+    {
+      "customerName": "manav",
+      "customer_id": 123,
+      "email": "sihifgush@gmail,com",
+      "contact": 65465846565,
+      "add": "iausgfdushfsjdffsnd",
+      "id": "d0b4"
+    },
+    {
+      "customerName": "shivam",
+      "customer_id": 1324,
+      "email": "sihifgush@gmail,com",
+      "contact": 654653243243265,
+      "add": "delhi",
+      "id": "d137"
+    },
+    {
+      "customerName": "vandana",
+      "customer_id": 134,
+      "email": "sihifgush@gmail,com",
+      "contact": 654324565464,
+      "add": "roorke",
+      "id": "fb35"
+    },
+    {
+      "customerName": "hemant",
+      "customer_id": 33,
+      "email": "sihifgush@gmail,com",
+      "contact": 64356786543,
+      "add": "madhya pardesh",
+      "id": "97f1"
+    },
+    {
+      "customerName": "janhvi",
+      "customer_id": 34,
+      "email": "sihifgu34543543@gmail,com",
+      "contact": 98765434356,
+      "add": "bihar",
+      "id": "00a0"
+    },
+    {
+      "customerName": "sneha",
+      "customer_id": 678,
+      "email": "jaat@gmail,com",
+      "contact": 7890878689,
+      "add": "Up37",
+      "id": "a1ed"
+    },
+    {
+      "customerName": "riya",
+      "customer_id": 456464,
+      "email": "baniya@gmail,com",
+      "contact": 90487350940,
+      "add": "uttar pardesh",
+      "id": "c54d"
+    },
+    {
+      "customerName": "mayank",
+      "customer_id": 909,
+      "email": "mayank@gmail,com",
+      "contact": 8956895486948,
+      "add": "up",
+      "id": "2f79"
+    },
+    {
+      "customerName": "kunal",
+      "customer_id": 323,
+      "email": "kunal@gmail,com",
+      "contact": 4567846565,
+      "add": "uttrakhand",
+      "id": "bf32"
+    },
+    {
+      "customerName": "rohit",
+      "customer_id": 673,
+      "email": "rohit@gmail,com",
+      "contact": 890846565,
+      "add": "rajasthan",
+      "id": "78f0"
+    },
+    {
+      "id": "654f",
+      "username": "manav",
+      "password": "xikjvjofd",
+      "passwordagain": "iusdhfoihwd",
+      "PhoneNo": "8451985855"
+    },
+    {
+      "id": "a533",
+      "username": "manav",
+      "password": "xikjvjofd",
+      "passwordagain": "iusdhfoihwd",
+      "PhoneNo": "8451985855"
+    },
+    {
+      "id": "91fe",
+      "username": "sZhB",
+      "password": "ewqew",
+      "passwordagain": "werftedf",
+      "PhoneNo": "234567657"
+    },
+    {
+      "id": "2bdf",
+      "username": "sZhB",
+      "password": "ewqew",
+      "passwordagain": "werftedf",
+      "PhoneNo": "234567657"
+    },
+    {
+      "id": "544b",
+      "username": "ewf",
+      "password": "ewrfg",
+      "passwordagain": "ewfrg",
+      "PhoneNo": "34567"
+    },
+    {
+      "id": "e414",
+      "username": "manav",
+      "password": "manav",
+      "passwordagain": "manav",
+      "PhoneNo": "4563214563"
+    }
+  ]
+}
